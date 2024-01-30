@@ -4,8 +4,6 @@
 </p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VtdGRxeWx5Z2docXJ4azdpMW9zc3FqNW5kYnY3M3J5anJkamVhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYeHgdouckUj0edXov/giphy.gif" width=27%>
 
-- 🌱 I’m currently learning  **`JWT Authentication`**
- 
 - 📫 How to reach me  **neamagamal27@gmail.com**
 
  - :zap: In my free time, I solve problems on LeetCode and read tech articles.
