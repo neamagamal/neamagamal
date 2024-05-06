@@ -1,6 +1,6 @@
  <h1 " align="center">Hi 👋, I'm Neama Gamal</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D27800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+From+Egypt;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=#008000&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+From+Egypt;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 <img align="right" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3VtdGRxeWx5Z2docXJ4azdpMW9zc3FqNW5kYnY3M3J5anJkamVhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cYeHgdouckUj0edXov/giphy.gif" width=27%>
 
