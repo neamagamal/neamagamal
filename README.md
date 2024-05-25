@@ -1,4 +1,4 @@
- <h1 " align="center">Hi 👋, I'm Neama Gamal</h1>
+ <h1 " align="center">Hi 👋, I'm Neama Gamal 👩‍💻 </h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=D008000&center=true&vCenter=true&width=600&height=100&lines=FullStack+Developer+From+Egypt;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
@@ -21,7 +21,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>&nbsp;
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neamagamal&"/>
-   <img align="leftr" src="https://github-readme-stats.vercel.app/api/top-langs?username=neamagamal&show_icons=true&locale=en&layout=compact" alt="neamagamal" />
- </p>
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=neamagamal&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neamagamal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
